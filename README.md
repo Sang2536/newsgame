@@ -7,7 +7,7 @@
 # Công nghệ sử dụng
   1. Ngôn ngữ: HTML, CSS, Javascript, PHP
   2. Framework: Bootstarp
-  3. Cơ sở dữ liệu: MSSQL
+  3. Cơ sở dữ liệu: MySQL
   4. Công nghệ sử dụng: Responsive Design Web, First Mobile
 
 # Chức năng đã hoàn thành
