@@ -37,10 +37,10 @@
   7. Hiển thị ngẫu nhiên game, hình ảnh: Thay vì chỉ hiển thị vài hình ảnh, game thì khi random sẽ hiển thị ngẫu nhiên hình ảnh, game có trong database.
   8. Phân trang: Khi dữ liệu trên trang hiện tại quá nhiều, tìm kiếm khó khăn và mất thời gian. Phân trang sẽ tự động thực hiện nếu như dữ liệu vượt qua số lượng cho phép ở trên một trang.
   9. Thêm, xóa, sửa, tìm kiếm
-     9.1. Thêm: Click vào nút thêm, form thêm dữ liệu se hiện lên. Nhập các thành phần vào dữ liệu tương ứng và nhấn xác nhận. Dữ liệu hợp lệ sẽ được lưu vào database và trang sẽ chuyển về lại trang quản lý. - Nếu chưa có dữ liệu mà nhấn xác nhận sẽ hiện ra thông báo và không thể thực hiện được.
-     9.2. Sửa: Khi muốn thay đổi dữ liệu mà không phải xóa đi thêm lại, vừa mất thời gian và gấy khó cho người dùng. Click vào sửa, trang hiện tại sẽ chuyển đén trang sửa thêm dữ liệu. Dữ liệu muốn sửa cũng sẽ có trong các trường dữ liệu. Chọn và sửa các thành phần dữ liệu muốn thay đổi tương ứng vào các trường và nhấn xác nhận. Dữ liệu hợp lệ sẽ được lưu vào database và trang sẽ chuyển về lại trang quản lý. Nếu không có thay đổi dữ liệu mà nhấn xác nhận cũng sẽ được chuyển về trang quản lý.
-     9.3. Xóa:: Di chuyển đến dữ liệu muốn xóa và ấn nút xóa. - Hộp thoại thông báo xuất hiện. Chọn OK để xác nhận xóa, Canse để hủy xóa.
-     9.4. Tìm kiếm: Nhập vào ô tìm kiếm và ấn nút. Nội dung tìm kiếm sẽ hiển thị ngay phía dưới thay cho dữ liệu hiển thị ban đầu.
+     1. Thêm: Click vào nút thêm, form thêm dữ liệu se hiện lên. Nhập các thành phần vào dữ liệu tương ứng và nhấn xác nhận. Dữ liệu hợp lệ sẽ được lưu vào database và trang sẽ chuyển về lại trang quản lý. - Nếu chưa có dữ liệu mà nhấn xác nhận sẽ hiện ra thông báo và không thể thực hiện được.
+     2. Sửa: Khi muốn thay đổi dữ liệu mà không phải xóa đi thêm lại, vừa mất thời gian và gấy khó cho người dùng. Click vào sửa, trang hiện tại sẽ chuyển đén trang sửa thêm dữ liệu. Dữ liệu muốn sửa cũng sẽ có trong các trường dữ liệu. Chọn và sửa các thành phần dữ liệu muốn thay đổi tương ứng vào các trường và nhấn xác nhận. Dữ liệu hợp lệ sẽ được lưu vào database và trang sẽ chuyển về lại trang quản lý. Nếu không có thay đổi dữ liệu mà nhấn xác nhận cũng sẽ được chuyển về trang quản lý.
+     3. Xóa:: Di chuyển đến dữ liệu muốn xóa và ấn nút xóa. - Hộp thoại thông báo xuất hiện. Chọn OK để xác nhận xóa, Canse để hủy xóa.
+     4. Tìm kiếm: Nhập vào ô tìm kiếm và ấn nút. Nội dung tìm kiếm sẽ hiển thị ngay phía dưới thay cho dữ liệu hiển thị ban đầu.
   10. Đọc bài viết • Chọn bài viết muốn đọc, nhấn vào hình ảnh hoặc tiêu đề bài viết • Trang sẽ chuyển sang trang chi tiết tin tức, bài viết đầy đủ sẽ hiển thị tại đây • Đọc xong thì có thể chọn những bài viết khác để đọc thêm.
 
 
